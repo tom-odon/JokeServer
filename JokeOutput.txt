@@ -1,0 +1,201 @@
+**Annotations are marked in stars, like this**
+
+Thomass-MacBook-Pro:JokeServer tom$ java JokeClient
+CLIENT Tom Odon's JokeClient, 1.0
+
+CLIENT Using JokeServer: localhost, Port: 26600
+
+Welcome! Please type your name, then press ENTER: 
+
+Tom
+
+**BEGIN 10 RANDOM JOKES**
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, I make apocalypse jokes like there's no tomorrow. (JC)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, If my wife made whiskey, I'd love her still. (JA)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, no matter how kind you are, German children are kinder. (JD)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, I shot a man with a paintball gun, just to watch him dye. (JB)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, 6:30 is the best time on a clock, hands down. (JE)
+
+
+**5 JOKES CYCLED THROUGH, BEGIN NEXT CYCLE**
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, I make apocalypse jokes like there's no tomorrow. (JC)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, I shot a man with a paintball gun, just to watch him dye. (JB)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, 6:30 is the best time on a clock, hands down. (JE)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, If my wife made whiskey, I'd love her still. (JA)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, no matter how kind you are, German children are kinder. (JD)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+
+**END 10 RANDOM JOKES, BEGIN 10 RANDOM PROVERBS**
+Tom, you cannot get to the top by sitting on your bottom. (PA)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, don't judge a book by its cover. (PE)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, necessity is the mother of invention. (PD)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, the pen is mightier than the sword. (PB)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, hope for the best, but prepare for the worst. (PC)
+
+
+**5 PROVERBS CYCLED THROUGH, BEGIN NEXT CYCLE**
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, hope for the best, but prepare for the worst. (PC)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, don't judge a book by its cover. (PE)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, necessity is the mother of invention. (PD)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, you cannot get to the top by sitting on your bottom. (PA)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, the pen is mightier than the sword. (PB)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+
+
+**END 10 RANDOM PROVERBS, BEGIN 10 JOKES + 10 PROVERBS INTERWOVEN AND RANDOM**
+Tom, If my wife made whiskey, I'd love her still. (JA)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, 6:30 is the best time on a clock, hands down. (JE)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+
+** 2/5 JOKES DONE**
+Tom, the pen is mightier than the sword. (PB)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, necessity is the mother of invention. (PD)
+
+
+**2/5 PROVERBS DONE**
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, I make apocalypse jokes like there's no tomorrow. (JC)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, I shot a man with a paintball gun, just to watch him dye. (JB)
+
+
+**4/5 JOKES DONE**
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, hope for the best, but prepare for the worst. (PC)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, you cannot get to the top by sitting on your bottom. (PA)
+
+**4/5 PROVERBS DONE**
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, no matter how kind you are, German children are kinder. (JD)
+
+**5 JOKES HAVE BEEN SERVED RANDOMLY, JOKES RESET**
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, don't judge a book by its cover. (PE)
+
+**5 PROVERBS HAVE BEEN SERVED RANDOMLY, PROVERBS RESET**
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, no matter how kind you are, German children are kinder. (JD)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, I shot a man with a paintball gun, just to watch him dye. (JB)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, 6:30 is the best time on a clock, hands down. (JE)
+
+**3/5 JOKES DONE**
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, the pen is mightier than the sword. (PB)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, hope for the best, but prepare for the worst. (PC)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, don't judge a book by its cover. (PE)
+
+**3/5 PROVERBS DONE**
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, If my wife made whiskey, I'd love her still. (JA)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+Tom, I make apocalypse jokes like there's no tomorrow. (JC)
+
+
+**5 JOKES HAVE BEEN SERVED RANDOMLY, JOKES RESET**
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+ 
+Tom, you cannot get to the top by sitting on your bottom. (PA)
+
+
+**5 PROVERBS HAVE BEEN SERVED RANDOMLY, PROVERBS RESET**
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+
+
+**END 10 JOKES AND PROVERBS INTERWOVEN, ONE MORE FOR GOOD LUCK**
+Tom, necessity is the mother of invention. (PD)
+
+Hey Tom, I've got something to tell you. Press ENTER to read it. Type "quit" to exit. 
+quit
+Cancelled by user request.
